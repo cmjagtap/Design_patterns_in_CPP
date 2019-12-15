@@ -1,11 +1,10 @@
 /*
  * singletonPattern.hpp
- *
  *  @Created on: 12-December-2019
- *  @Author: 		 	Chandramohan Jagtap
- *	@Email: 			cmjagtap1@gmail.com
- *	@Description:
- *						Singleton Pattern Header file.
+ *  @Author: 	Chandramohan Jagtap
+ *  @Email: cmjagtap1@gmail.com
+ *  @Description:
+ *		Singleton Pattern Header file.
  */
 #ifndef _SINGLETONE_PATTERN_HPP_
 #define _SINGLETONE_PATTERN_HPP_

@@ -1,11 +1,10 @@
 /*
  * singletonPattern.cpp
- *
  *  @Created on: 12-December-2019
- *  @Author: 		 	Chandramohan Jagtap
- *	@Email: 			cmjagtap1@gmail.com
- *	@Description:
- *						Singleton Pattern class file.
+ *  @Author: Chandramohan Jagtap
+ *  @Email:  cmjagtap1@gmail.com
+ *  @Description:
+ *		Singleton Pattern class file.
  */
 
 #include "singletonPattern.hpp"
