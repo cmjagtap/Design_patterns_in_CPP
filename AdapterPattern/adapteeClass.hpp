@@ -14,7 +14,7 @@ using namespace std;
 class Adaptee 
 {
 	public:
-    	void SpecificRequest();
+    		void SpecificRequest();
 };
 
 #endif /*_ADAPTEE_PATTERN_HPP_*/
