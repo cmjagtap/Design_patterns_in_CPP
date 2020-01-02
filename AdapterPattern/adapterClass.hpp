@@ -15,10 +15,10 @@
 class Adapter :public Target, private Adaptee 
 {
 	private:
-    	Adaptee *_ade;
+    		Adaptee *_ade;
 	public:
-    	Adapter(Adaptee* ade);
-    	void Request();
+    		Adapter(Adaptee* ade);
+    		void Request();
 };
 
 #endif /*_ADAPTEER_PATTERN_HPP_*/
