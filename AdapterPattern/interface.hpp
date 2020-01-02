@@ -8,8 +8,6 @@
  */
 #ifndef _ADAPTER_PATTERN_HPP_
 #define _ADAPTER_PATTERN_HPP_
-
-
 class Target
 {
 public:
