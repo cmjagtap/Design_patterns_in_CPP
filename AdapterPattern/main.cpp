@@ -6,10 +6,8 @@
 int main(int argc, char const *argv[])
 {
 	Adaptee *adaptee = new Adaptee();
-    Target *adapter = new Adapter(adaptee);
-
-    adapter->Request();
-
+	Target *adapter = new Adapter(adaptee);
+    	adapter->Request();
 
 	return 0;
 }
