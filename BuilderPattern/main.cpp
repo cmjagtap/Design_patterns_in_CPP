@@ -1,3 +1,13 @@
+ 
+/*
+ * main.cpp
+ *  @Created on: 10-January-2020
+ *  @Author: Chandramohan Jagtap
+ *  @Email:  cmjagtap1@gmail.com
+ *  @Description:
+ *		Singleton Pattern main file.
+ */
+
 #include <iostream>
 using namespace std;
 
